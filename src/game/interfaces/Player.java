@@ -1,5 +1,5 @@
 package game.interfaces;
 
-public interface gameMap {
+public interface Player {
 
 }

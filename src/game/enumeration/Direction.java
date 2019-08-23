@@ -1,5 +1,5 @@
 package game.enumeration;
 
-public enum blockType {
+public enum Direction {
 
 }

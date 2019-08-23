@@ -1,5 +1,5 @@
 package game.enumeration;
 
-public enum direction {
+public enum PlayerNum {
 
 }

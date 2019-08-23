@@ -1,5 +1,5 @@
 package game.enumeration;
 
-public enum playerNum {
+public enum BlockType {
 
 }

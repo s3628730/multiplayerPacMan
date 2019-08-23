@@ -1,5 +1,5 @@
 package networking;
 
-public class server {
+public class Server {
 
 }

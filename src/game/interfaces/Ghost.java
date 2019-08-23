@@ -1,5 +1,5 @@
 package game.interfaces;
 
-public interface player {
+public interface Ghost {
 
 }

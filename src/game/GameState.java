@@ -1,6 +1,6 @@
 package game;
 
-public class gameState {
+public class GameState {
 
 	//private Map<PlayerNum, player> players
 }

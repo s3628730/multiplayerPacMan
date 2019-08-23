@@ -1,5 +1,5 @@
 package game.interfaces;
 
-public interface ghost {
+public interface GameMap {
 
 }
